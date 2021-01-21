@@ -28,7 +28,7 @@
     "passport-facebook": "^2.0.0",
     "passport-local": "^1.0.0",
     "serve-favicon": "~2.3.0",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "uuid": "^2.0.1",
     "validator": "^4.1.0"
   }
